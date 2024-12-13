@@ -69,7 +69,18 @@ Clue, Ovia Health, Glow, MyFLO and Apple Health.
 ## Recommendations
 
 **Mental Health Integration**: 
-Develop a feature that helps track mental health symptoms tied to the menstrual cycle, mood swings, and stress, with guided meditation or therapy resources. This would help users better understand the impact of their cycles on mental well-being.
+```Develop a feature that helps track mental health symptoms tied to the menstrual cycle, mood swings, and stress, with guided meditation or therapy resources. This would help users better understand the impact of their cycles on mental well-being.```
 
 **Subscription-Based Telehealth Services**: 
-Flo could introduce an on-demand telemedicine service that connects users to doctors or health professionals for consultations related to reproductive health, fertility, or menopause.
+```Flo could introduce an on-demand telemedicine service that connects users to doctors or health professionals for consultations related to reproductive health, fertility, or menopause.```
+
+## Sources
+[Flo Health Official website](https://flo.health/about-flo/milestones)
+
+[Forbes](https://www.forbes.com)
+
+[Statista](https://www.statista.com/statistik/suche/?q=Women%27s+health&p=1)
+
+[StackShare](https://www.google.com/search?client=safari&rls=en&q=StackShare&ie=UTF-8&oe=UTF-8)
+
+[Crunchbase](https://about.crunchbase.com/products/crunchbase-pro/?utm_source=google&utm_medium=cpc&utm_campaign=SCH%20%7C%20Pro%20%7C%20NAM%20%7C%20Brand%20%7C%20Exact%20~%20Super%20-%20Self%20Serve&keyword=crunchbase&matchtype=e&creative=626198265254&device=c&adposition=&campaignid=12750598521&placement=&network=g&gad_source=1&gbraid=0AAAAADfmmL4AZETR1QBVn5V6DQDD3tpDT&gclid=Cj0KCQiAsOq6BhDuARIsAGQ4-zjOybwwaaX3JcCbS6RndOEvzDMk1noqTKEKVNamGIhamMqKPCitTlQaArIPEALw_wcB)
