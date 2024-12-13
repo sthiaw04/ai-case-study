@@ -1,5 +1,5 @@
 # ai-case-study
-first challenge
+
 # Flo - the app to help women understand their cycle
 ## Overview and Origin
 * Name: Flo Health
@@ -16,7 +16,7 @@ first challenge
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve? 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
